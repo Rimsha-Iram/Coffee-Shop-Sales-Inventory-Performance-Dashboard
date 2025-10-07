@@ -42,9 +42,10 @@ This dashboard enables data-driven decision-making by highlighting:
 - Clear storytelling layout with trend and performance insights  
 
 ## 📂 Project Files
-- `Coffee_Retail_Modern_Corporate_Report.pptx` – Executive summary presentation  
-- `Coffee_Shop_Sales_Dashboard.pbix` – Power BI report file  
-- `Dataset.xlsx` – Source data (sales, inventory, suppliers, customers)  
+- `Coffee_Sales_Dashboard.pdf` – Static view of the Power BI dashboard for quick preview  
+- `Coffee_Sales_Dashboard.pbix` – Interactive Power BI file for in-depth exploration  
+- `Coffee_Sales_Report.pdf` – Executive summary report with key insights and recommendations  
+- `Coffee_Sales_Dataset.xlsx` – Source dataset (sales, inventory, suppliers, and customers)
 
 ## 👤 Author
 **Rimsha Iram** – Data Analyst  
